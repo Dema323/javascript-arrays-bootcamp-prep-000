@@ -15,7 +15,7 @@ return cities
 function addElementToEndOfArray(){
   var cities = ["New York", "San Francisco"]
   [...cities, "Philadelphia"]
-  return cities  
+  return cities
 }
 
 function destructivelyAddElementToEndOfArray(){
